@@ -2,38 +2,9 @@
 Bootstrap 5
 --------------
 Accordion ,  Tooltips , Tables, Alert Box , Carousel 5 variations, Cards , Navbar - mega & normal 
-Why ? BS = Saves times , Mobile first , CDN , Open Source , Compatibility
+Why ? BS = Saves times , Mobile first , CDN , Open Source , Compatibility 
 
-Breakpoints-BS:
-Less than 576 px - none
-576px to 767.9px - small
-768px to 991.9px - medium
-992px to 1199.9px - large
-1200px to 1399.9px - Xlarge
-1400px to Infinity - XXlarge
-
-Grid in BS:
-Col-12 , Col-md -4 , col-lg-2 - container responsive
-All container made of 12 parts 
-
-Images
-.rounded / rounded-circle
-
-Spacing
-mx , my , px , py , pb , pt , me , ms
-mx - [0,1,2,3,4,5] , auto
-
-Sizing
-W-0 , w-25, w-50, w-75 , w-100 , w-auto 
-Same to height h
-
-
-
-Container:
-.container-fluid -> Width 100%
-.container-occupies -> max with available spaces
-
-Bs5
+  Bs5
 Grid system
 Colors
 Jumpotron
@@ -45,10 +16,59 @@ Tooltip
 Buttons
 Images Videos
 
-Html Codes are Case Insensitive - p P h1 H3 accepted
-BS5 was created by twitter in 2010 - 2021 v5 has been released.
+-------------
+BS5 Pros
+-------------
 Large community , easy to use.
 Predefined components
-Js plugins - Carousels, Modals , Tooltips
+Can use Js plugins - Carousels, Modals , Tooltips
 BS - Grid system - responsive layouts
+
+  
+------------------
+Breakpoints-BS
+------------------
+Less than 576 px - none
+576px to 767.9px - small
+768px to 991.9px - medium
+992px to 1199.9px - large
+1200px to 1399.9px - Xlarge
+1400px to Infinity - XXlarge
+
+-------------
+Grid in BS
+-------------
+Col-12 , Col-md -4 , col-lg-2 - container responsive
+All container made of 12 parts 
+
+------
+Images
+------
+.rounded / rounded-circle
+
+--------
+Spacing
+--------
+mx , my , px , py , pb , pt , me , ms
+mx - [0,1,2,3,4,5] , auto
+
+----------
+Sizing
+----------
+W-0 , w-25, w-50, w-75 , w-100 , w-auto 
+Same to height h
+
+-----------
+Container
+-----------
+.container-fluid -> Width 100%
+.container-occupies -> max with available spaces
+
+
+
+Html Codes are Case Insensitive - p P h1 H3 accepted
+BS5 was created by twitter in 2010 - 2021 v5 has been released.
+
+
+
 
