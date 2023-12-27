@@ -1,20 +1,13 @@
 --------------
 Bootstrap 5
 --------------
-Accordion ,  Tooltips , Tables, Alert Box , Carousel 5 variations, Cards , Navbar - mega & normal 
-Why ? BS = Saves times , Mobile first , CDN , Open Source , Compatibility 
+BS5 was created by twitter in 2010 - 2021 v5 has been released.
 
-  Bs5
-Grid system
-Colors
-Jumpotron
-Carousel
-Dropdowns
-Responsive Navbar
-Modal
-Tooltip
-Buttons
-Images Videos
+---------------------
+Most used components
+---------------------
+Accordion ,  Tooltips , Tables, Alert Box , Carousel 5 variations, Cards , Jumpotron, Navbar - mega & normal 
+Why ? BS = Saves times , Mobile first , CDN , Open Source , Compatibility 
 
 -------------
 BS5 Pros
@@ -24,7 +17,6 @@ Predefined components
 Can use Js plugins - Carousels, Modals , Tooltips
 BS - Grid system - responsive layouts
 
-  
 ------------------
 Breakpoints-BS
 ------------------
@@ -63,12 +55,4 @@ Container
 -----------
 .container-fluid -> Width 100%
 .container-occupies -> max with available spaces
-
-
-
-Html Codes are Case Insensitive - p P h1 H3 accepted
-BS5 was created by twitter in 2010 - 2021 v5 has been released.
-
-
-
 
